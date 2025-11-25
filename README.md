@@ -1,6 +1,6 @@
-Projects for Decision Systems cource for NTUA
+# Projects for Decision Systems cource for NTUA
 
-# Business Model Canvas
+## Business Model Canvas
 This assignment focuses on analyzing the business model of Olympia Odos S.A. using the Business Model Canvas framework. It includes a presentation of the company’s current business model, the development of a hypothetical scenario involving changes in two Canvas areas, and the creation of an adapted business model that responds to these changes. The work combines structured analysis, strategic thinking, and model redesign to demonstrate understanding of business model dynamics.
 
-# BPMN
+## BPMN
