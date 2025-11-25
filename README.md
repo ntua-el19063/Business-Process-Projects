@@ -9,4 +9,7 @@ This assignment focuses on analyzing the business model of Olympia Odos S.A. usi
 This project combines structured analysis, strategic thinking, and model redesign to demonstrate understanding of business model dynamics.
 
 ## BPMN
-
+This project models and analyzes the “Office Furniture Purchase & Decoration” process using BPMN 2.0. 
+The workflow includes the customer’s request, validation, design proposal, ordering of materials, delivery, and final setup. 
+A simulation was then performed using BIMP to evaluate execution times, resource utilization, and overall costs. 
+The results highlight bottlenecks and lead to optimization proposals including improved digital communication, streamlined material delivery, and reduced resource involvement.
